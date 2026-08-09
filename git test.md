@@ -1,6 +1,5 @@
 # Git Test
 
-Created from Obsidian.
+This is Version 2.
 
-Test date: 2026-08-09
-changed from git hub to obsidian
+This sentence is intentionally different.
