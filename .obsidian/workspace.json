@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2a0a9614a8084c1",
+  "active": "c289627bff2354ac",
   "lastOpenFiles": [
     "README.md",
     "git test.md"
