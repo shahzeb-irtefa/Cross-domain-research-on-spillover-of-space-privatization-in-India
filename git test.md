@@ -1,5 +1,5 @@
 # Git Test
 
-This is Version 2.
+This is Version 3.
 
 This sentence is intentionally different.
