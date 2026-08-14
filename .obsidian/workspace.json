@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- Literature/Literature Notes/Example note.md",
+                "file": "01- Literature/Literature Notes/Reyan notes/Notes on basic of research/Notes on research design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example note"
+              "title": "Notes on research design"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "cd3fdb1ba1cf1f4c",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "01- Literature/Literature Notes/Example note.md",
+    "01- Literature/Literature Notes/Reyan notes/Notes on basic of research/Notes on research design.md",
+    "01- Literature/Literature Notes/Reyan notes/Notes on basic of research",
+    "01- Literature/Literature Notes/Reyan notes/Untitled.md",
+    "Untitled.canvas",
     "2026-08-14.md",
     "01- Literature/Literature Notes/Adnan Notes/kappa.txt",
     "01- Literature/Literature Notes/Anshu notes/kappa.txt",
@@ -223,7 +226,6 @@
     "01- Literature/Literature Notes/Shahzeb notes/New Text Document.txt",
     "01- Literature/Literature Notes/Adnan Notes",
     "01- Literature/Literature Notes/New folder",
-    "01- Literature/Literature Notes/Anshu notes",
     "01- Literature/Literature folder guide.md",
     "01- Literature/Example Notes by Reyan.md",
     "01- Literature/Literature Notes/Example Notes by Reyan.md",
@@ -245,7 +247,6 @@
     "02- Concepts/Econometrics.md",
     "02- Concepts/Space Sector.md",
     "02- Concepts/Economics.md",
-    "01- Literature/Authors.md",
-    "README.md"
+    "01- Literature/Authors.md"
   ]
 }
