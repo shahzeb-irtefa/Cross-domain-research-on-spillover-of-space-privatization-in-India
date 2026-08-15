@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- Literature/Literature Notes/Example note.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example note"
+              "title": "test"
             }
           }
         ]
@@ -175,8 +175,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "cd3fdb1ba1cf1f4c",
   "lastOpenFiles": [
-    "01- Literature/Literature Notes/Adnan Notes/Irtefa is KALIS.md",
     "01- Literature/Literature Notes/Example note.md",
+    "01- Literature/Literature Notes/Adnan Notes/Irtefa is KALIS.md",
     "01- Literature/Literature Notes/Suhana notes/kappa.txt",
     "01- Literature/Literature Notes/Suhana notes",
     "01- Literature/Literature Notes/Shahzeb notes/kappa.txt",
