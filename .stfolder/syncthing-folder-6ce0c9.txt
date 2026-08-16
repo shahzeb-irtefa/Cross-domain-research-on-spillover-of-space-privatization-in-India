@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: fjdeu-nv3cs
-created: 2026-08-15T16:02:13+05:30
