@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: fn2cs-hpx5l
+created: 2026-08-16T10:47:25+05:30
