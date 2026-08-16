@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- Literature/Literature folder guide.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature folder guide"
+              "title": "test"
             }
           }
         ]
@@ -200,6 +200,7 @@
   },
   "active": "c851d5238602ceee",
   "lastOpenFiles": [
+    "01- Literature/Literature folder guide.md",
     "01- Literature/Literature Notes/example connection.md",
     "01- Literature/Literature Notes/Example note.md",
     "01- Literature/Literature Notes/Reyan notes/Notes on basic of research/Notes on research design.md",
@@ -235,7 +236,6 @@
     "INBOX for Adnaan (temporary)/Test.md",
     "INBOX for Adnaan (temporary)/Adnan.md",
     "01- Literature/Literature Notes/Adnan Notes/Irtefa is KALIS.md",
-    "Untitled.canvas",
-    "2026-08-14.md"
+    "Untitled.canvas"
   ]
 }
