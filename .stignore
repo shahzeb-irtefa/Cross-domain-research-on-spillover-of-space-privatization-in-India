@@ -1,0 +1,6 @@
+// Git
+/.git
+
+// Obsidian UI state
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
