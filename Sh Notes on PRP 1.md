@@ -50,7 +50,7 @@ could explain the observed pattern without requiring knowledge spillovers.
 
 The innovation database contained **8,074 commercial innovations**, with **4,200 manufacturing innovations having usable location information** ultimately used in the analysis.
 
-Mainly those companies where the impact 
+Mainly those companies where the impact on production due to innovation/technological breakthrough is greater than most industries. i.e. tech 
 
 ---
 
