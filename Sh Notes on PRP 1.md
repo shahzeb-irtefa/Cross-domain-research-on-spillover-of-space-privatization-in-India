@@ -38,8 +38,6 @@ Therefore:
 
 could explain the observed pattern without requiring knowledge spillovers.
 
-This is why the authors explicitly control for production concentration.
-
 ---
 
 ## 4. Data Source & Scope
@@ -51,6 +49,8 @@ This is why the authors explicitly control for production concentration.
 > **U.S. manufacturing industries at the 4-digit SIC level, analyzed across U.S. states using 1982 innovation data and supplementary industry-level data.**
 
 The innovation database contained **8,074 commercial innovations**, with **4,200 manufacturing innovations having usable location information** ultimately used in the analysis.
+
+Mainly those companies where the impact 
 
 ---
 
