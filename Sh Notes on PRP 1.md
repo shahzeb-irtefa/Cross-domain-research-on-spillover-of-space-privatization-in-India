@@ -68,7 +68,6 @@ They calculate this across U.S. states for individual industries.
 ## 6. Production Concentration
 
 They also calculate a **Gini coefficient for production**.
-
 This allows them to distinguish:
 
 > **Innovation is concentrated because production is concentrated**
@@ -76,8 +75,6 @@ This allows them to distinguish:
 from:
 
 > **Innovation is concentrated because knowledge-related factors encourage clustering.**
-
-This is one of the most important methodological ideas in the paper.
 
 ---
 
