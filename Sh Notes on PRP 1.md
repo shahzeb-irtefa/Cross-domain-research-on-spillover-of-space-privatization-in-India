@@ -30,7 +30,8 @@ For example:
 
 > If most firms in an industry are located in one region, its researchers and innovations may naturally be concentrated there too.
 
-Basically if the firms are concentrated due to any other reason the innovation would happen there geographically because all the experts or leading researchers would be present where the facilities/environment of research would be ideal. Think of it like this, breakthroughs would most likely come from the experts, and experts will reside where the indust
+Basically if the firms are concentrated due to any other reason the innovation would happen there geographically because all the experts or leading researchers would be present where the facilities/environment of research would be ideal. Think of it like this, breakthroughs would most likely come from the experts, and experts will reside where the cluster is so instead of innovation concentration leading to production concentration it could be the other way around.
+
 Therefore:
 
 > **Production concentration → Innovation concentration**
