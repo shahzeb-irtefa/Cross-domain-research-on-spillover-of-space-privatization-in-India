@@ -8,7 +8,7 @@
 
 > **Why is innovation geographically concentrated, and what role do knowledge spillovers play in this concentration?**
 
-The main question the author is trying to ask whether knowledge shows a greater geogr
+The main question the author is trying to ask whether knowledge is a greater factor to concentration of industries that are dependent on innovation in terms of e
 The authors particularly ask whether innovation clustering is explained merely by **where production is already concentrated**, or whether industries that depend more heavily on new knowledge show greater geographic concentration of innovation.
 
 **Remember:**  
