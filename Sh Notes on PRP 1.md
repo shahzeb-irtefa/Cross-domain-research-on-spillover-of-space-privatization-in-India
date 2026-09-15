@@ -50,26 +50,18 @@ could explain the observed pattern without requiring knowledge spillovers.
 
 The innovation database contained **8,074 commercial innovations**, with **4,200 manufacturing innovations having usable location information** ultimately used in the analysis.
 
-Mainly those companies where the impact on production due to innovation/technological breakthrough is greater than most industries. i.e. tech 
+Mainly those companies where the impact on production due to innovation/technological breakthrough is greater than most industries. i.e. technologically sensitive industries 
 
 ---
 
 ## 5. Dependent Variable — Geographic Concentration of Innovation
 
 The authors measure how geographically concentrated innovation is using a **Gini coefficient**.
-
 ### Innovation Gini
-
 - Higher Gini → greater geographic concentration.
-    
 - Lower Gini → innovation is more geographically dispersed.
-    
 
 They calculate this across U.S. states for individual industries.
-
-**Remember:**
-
-> **Gini = how concentrated is innovation geographically?**
 
 ---
 
