@@ -1,7 +1,5 @@
- Notes — Audretsch & Feldman (1996)
-
-**Paper:** _R&D Spillovers and the Geography of Innovation and Production_  
-**Authors:** David B. Audretsch & Maryann P. Feldman  
+**Paper:** _R&D Spillovers and the Geography of Innovation and Production_  [[Primary Research Paper 1]]
+**Authors:** #DavidBAudretsch & #MaryannPFeldman   
 **Journal:** _The American Economic Review_, 1996
 
 ---
