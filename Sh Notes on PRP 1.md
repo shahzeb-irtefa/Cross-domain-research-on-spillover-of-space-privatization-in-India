@@ -9,7 +9,7 @@
 > **Why is innovation geographically concentrated, and what role do knowledge spillovers play in this concentration?**
 
 The main question the author is trying to ask whether knowledge is a greater factor to concentration of industries that are dependent on innovation in terms of economic growth.
-Essentially researching about the link between industry clustering and knowledge spillover and how deep it goes i.e. 
+Essentially researching about the link between industry clustering and knowledge spillover and how deep it goes i.e. how much knowledge externalities affect concentration of industries geographically.
 
 ---
 
@@ -17,11 +17,8 @@ Essentially researching about the link between industry clustering and knowledge
 
 > Industries in which **new economic knowledge is more important** should have more geographically concentrated innovation.
 
-The underlying idea is that knowledge spillovers are often geographically localized. Firms benefit from being close to other firms, skilled workers, and universities that generate relevant knowledge.
+The underlying idea is that knowledge spillovers are often geographically localized. Firms benefit from being close to other firms, skilled workers, and universities that generate relevant knowledge. Meaning it is easier to share knowledge and breakthrough when the expert are geographically close by., The counter argument is given in the next point.
 
-**Simple chain:**
-
-**More knowledge dependence → stronger benefit from proximity → more innovation clustering**
 
 ---
 
