@@ -30,6 +30,7 @@ For example:
 
 > If most firms in an industry are located in one region, its researchers and innovations may naturally be concentrated there too.
 
+Basically if the firms are concentrated due to any other reason the innovation would happen there geographically because all the experts or leading researchers would be p
 Therefore:
 
 > **Production concentration → Innovation concentration**
