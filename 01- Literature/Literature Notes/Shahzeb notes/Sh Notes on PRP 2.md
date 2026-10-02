@@ -1,3 +1,3 @@
 >Isolating variation in NASA R&D that is virtually independent of location-specific unobservables, [[primary research paper 2.pdf#page=3&selection=37,68,41,6|primary research paper 2, page 3]] [[primary research paper 2.pdf#page=3&selection=37,67,41,6|primary research paper 2, page 3]]
 
-Here they mean t
+Here they mean that this researched isolated variations caused by advantages that each county had that could effect the economic growth, basically having boundaries to test their hypothesis in a controlled enviorment
