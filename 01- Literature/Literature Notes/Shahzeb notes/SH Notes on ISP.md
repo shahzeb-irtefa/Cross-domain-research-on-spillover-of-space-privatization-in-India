@@ -15,4 +15,5 @@ Just some corporate jargon nothing substantial
 >  including in the creation of space and ground based assets.
 
 [[IndianSpacePolicy2023.pdf#page=5&selection=89,27,90,39|IndianSpacePolicy2023, page 5]]
-Meaning they are trying to pull in private companies for full end to end production
+Meaning they are trying to pull in private companies for full end to end production.
+Also they are allowing private companies to buy, sell, research and develop several other related fields
