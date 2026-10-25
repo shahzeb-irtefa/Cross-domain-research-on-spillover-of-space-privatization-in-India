@@ -29,3 +29,5 @@ It is autonomous and functions as an enforcer, regulator and overseeing authorit
 It is like an all encompassing independent government authority that drives forward the mission of space development and opening up the space industry.
 
 ISRO will focus more on R&D and less on deployment (the second part is inferred and not directly written). ISRO will make some data open to public, basically open sourcing it partially.
+
+NSIL- New space limited India will be the one to form PPP (private public partnership) and act as a supplier of tech (by tech here I mean actual components) (manufacturer)
