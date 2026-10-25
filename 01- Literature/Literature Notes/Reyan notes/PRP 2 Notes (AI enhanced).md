@@ -1,6 +1,8 @@
+[[Primary Research Paper 2]]
+
 # Moonshot: Public R&D and Growth: Detailed Notes
 
-**Paper:** Kantor & Whalley, _American Economic Review_, Sept 2025, 115(9): 2891–2925 **Legend:** ⭐ = parts you marked "IMP" in your PDF
+**Paper:** #Kantor & #Whalley, _American Economic Review_, Sept 2025, 115(9): 2891–2925 **Legend:** ⭐ = parts you marked "IMP" in your PDF
 
 ---
 

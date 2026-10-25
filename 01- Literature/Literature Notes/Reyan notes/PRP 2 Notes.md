@@ -1,3 +1,5 @@
+[[Primary Research Paper 2]]
+**Paper:** #Kantor & #Whalley, _American Economic Review_, Sept 2025, 115(9): 2891–2925
 ## 1. Main Objective / Research Questions
 
 **Overall objective:** To estimate the _causal, long-term_ effect of public R&D on economic growth, using the Cold War space race (NASA's moonshot) as a natural experiment.

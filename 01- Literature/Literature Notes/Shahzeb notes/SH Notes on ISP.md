@@ -1,3 +1,4 @@
+[[IndianSpacePolicy2023.pdf]]
 # Preamble
 
 > The Government of India unleashed reforms in space domain in 2020, opening the doors for enhanced participation of NGEs in carrying out end-to-end activities in the space domain and with an aim to provide them a level playing field. Subsequent to these reforms, the Government seeks to provide regulatory certainty to space activities by various stakeholders, in order to create a thriving space ecosystem. The Indian Space Policy – 2023 has thus been formulated as an overarching, composite and dynamic framework to implement the reform vision approved by Cabinet.
@@ -28,6 +29,14 @@ It is autonomous and functions as an enforcer, regulator and overseeing authorit
 
 It is like an all encompassing independent government authority that drives forward the mission of space development and opening up the space industry.
 
-ISRO will focus more on R&D and less on deployment (the second part is inferred and not directly written). ISRO will make some data open to public, basically open sourcing it partially.
+ISRO will focus more on R&D and less on deployment. ISRO will make some data open to public, basically open sourcing it partially.
 
 NSIL- New space limited India will be the one to form PPP (private public partnership) and act as a supplier of tech (by tech here I mean actual components) (manufacturer)
+
+# Which department is for which
+
+- **Department of Space (DOS):** Nodal government body ensuring no overlap between entities[16].
+- **ISRO:** Research & Innovation engine[3].
+- **IN-SPACe:** Regulator & Single-Window Promoter for private entities[4][9].
+- **NSIL:** Commercial arm monetizing mature public assets[15].
+- **NGEs (Private Sector):** Commercial operators driving manufacturing, launches, and services[1][5].
