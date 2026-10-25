@@ -4,7 +4,7 @@
 
 [[IndianSpacePolicy2023.pdf#page=5&selection=12,0,36,23|IndianSpacePolicy2023, page 5]]
 
-Basically they are saying they are giving private firms full authority.
+Basically they are saying they are giving private firms full authority. By full authority 
 
 # Vision
 
