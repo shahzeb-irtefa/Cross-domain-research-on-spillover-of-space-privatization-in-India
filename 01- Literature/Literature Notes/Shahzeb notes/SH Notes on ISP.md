@@ -18,4 +18,4 @@ Just some corporate jargon nothing substantial
 Meaning they are trying to pull in private companies for full end to end production.
 Also they are allowing private companies to buy, sell, research and develop several other related fields and opening it to the public (meaning now a lot of it is not state exclusive.)
 
-The fields are: 
+The fields are: communication, remote- sensing, data-services, launch-services
