@@ -26,4 +26,6 @@ Another interesting thing is they are now allowing collaboration with companies 
 Basically this is the SEBI equivalent for the space industry
 It is autonomous and functions as an enforcer, regulator and overseeing authority along with helping new players to establish themselves in the industry (by providing technology, data, information,etc.)
 
-It is like an all encompassing independent government authority that drives forward the mission of space development and opening up the space industry
+It is like an all encompassing independent government authority that drives forward the mission of space development and opening up the space industry.
+
+ISRO will focus more on R&D and less on deployment (the second part is inferred and not directly written). ISRO will make some data open to public, basically open sourcing it partially.
