@@ -22,3 +22,6 @@ The fields are: communication, remote- sensing, data-services, launch-services.
 Another interesting thing is they are now allowing collaboration with companies and operations outside India too.
 
 # IN-SPACe
+
+Basically this is the SEBI equivalent for the space industry
+It is autonomous and functions as an enforcer, regulator and overseeing authority along with helping new players to establish themselves in the industry (by providing technology, data, information,etc.)
