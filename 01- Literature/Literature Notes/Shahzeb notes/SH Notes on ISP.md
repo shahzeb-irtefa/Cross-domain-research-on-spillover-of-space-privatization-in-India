@@ -25,3 +25,5 @@ Another interesting thing is they are now allowing collaboration with companies 
 
 Basically this is the SEBI equivalent for the space industry
 It is autonomous and functions as an enforcer, regulator and overseeing authority along with helping new players to establish themselves in the industry (by providing technology, data, information,etc.)
+
+It is like an all encompassing independent government authority that drives forward the mission of space development and opening up the space industry
