@@ -4,7 +4,7 @@
 
 [[IndianSpacePolicy2023.pdf#page=5&selection=12,0,36,23|IndianSpacePolicy2023, page 5]]
 
-Basically they are saying they are giving private firms full authority. By full authority 
+Basically they are saying they are giving private firms full authority. By full authority I mean end to end production and some more (the word more will be defined by the guidelines of IN-SPACe)
 
 # Vision
 
