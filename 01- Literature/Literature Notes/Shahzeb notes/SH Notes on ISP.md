@@ -20,3 +20,5 @@ Also they are allowing private companies to buy, sell, research and develop seve
 
 The fields are: communication, remote- sensing, data-services, launch-services.
 Another interesting thing is they are now allowing collaboration with companies and operations outside India too.
+
+# IN-SPACe
