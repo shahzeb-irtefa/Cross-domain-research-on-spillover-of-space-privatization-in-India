@@ -10,3 +10,9 @@ Basically they are saying they are giving private firms full authority.
 
 Just some corporate jargon nothing substantial
 
+# Strategy
+
+>  including in the creation of space and ground based assets.
+
+[[IndianSpacePolicy2023.pdf#page=5&selection=89,27,90,39|IndianSpacePolicy2023, page 5]]
+Meaning they are trying to pull in private companies for full end to end production
