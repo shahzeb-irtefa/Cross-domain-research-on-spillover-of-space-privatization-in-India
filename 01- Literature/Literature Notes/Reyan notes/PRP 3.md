@@ -226,4 +226,3 @@ This paper is going to be one of our main anchors for the background and the "be
 
 •     **A note of caution on numbers:** given the small inconsistencies, any figure we lift from this paper should be cross-checked with the original source (Budget, TRAI, ISRO) before it goes into our draft.
 
-_For the literature matrix: Descriptive, national-level, 2011–21, secondary data, no causal method. Strength = baseline and data sources. Gap = no regional or causal analysis — which is our angle._
